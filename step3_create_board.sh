@@ -6,4 +6,4 @@ if [ ! -f "hellen-one/readme.md" ]; then
 fi
 
 cd hellen-one
-sh bin/create_board_with_prefix.sh "proteus-mustang5.0" ".." "60-pin" "c" "bom_replace_ford-60-a.csv" "80,0"
+sh bin/create_board_with_prefix.sh "proteus-mustang5.0-" ".." "60-pin" "c" "bom_replace_ford-60-a.csv" "80,0"
