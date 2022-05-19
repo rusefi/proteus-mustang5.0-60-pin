@@ -429,7 +429,7 @@
       "netlist": "134pin_7-967288-1.net",
       "specctra_dsn": "",
       "step": "",
-      "vrml": ""
+      "vrml": "5.0mustangProteusPnP.wrl"
     },
     "page_layout_descr_file": "../rusefi_lib/Border.kicad_wks"
   },
@@ -465,7 +465,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "../rusefi_lib/Border.kicad_wks",
-    "plot_directory": "",
+    "plot_directory": "export_19_05_2022/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
