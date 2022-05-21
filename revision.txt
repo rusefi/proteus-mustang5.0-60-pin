@@ -1,0 +1,8 @@
+# make sure to increment revision BEFORE any changes to content
+
+BOARD_PREFIX=5.0mustangProteus
+BOARD_SUFFIX=PnP
+BOARD_REVISION=a
+
+# does not affect fab files, only needed to have nice rendered preview
+BOARD_PCB_OFFSET=0,0
