@@ -1,3 +1,3 @@
-X layers
+2 layers
 
-YY by ZZ mm
+169.606 * 139.7 mm
