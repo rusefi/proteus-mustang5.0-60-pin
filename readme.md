@@ -2,6 +2,8 @@ Status: untested
 
 See https://rusefi.com/forum/viewtopic.php?f=2&t=1890
 
+[88 diagram](https://github.com/rusefi/rusefi/wiki/Ford-Fox-Body-(88-Ford-Mustang-302-V8))
+
 # 5.0 Mustang Proteus PnP
 PnP adapter board for 5.0 mustang EEC-IV computer using Proteus Rusefi v0.5 compatible board.
 
