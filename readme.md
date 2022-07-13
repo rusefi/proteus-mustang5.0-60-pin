@@ -2,6 +2,8 @@ Status: untested
 
 See https://rusefi.com/forum/viewtopic.php?f=2&t=1890
 
+[rev A schematics](https://github.com/rusefi/proteus-mustang5.0-60-pin/blob/main/boards/5.0mustangProteusPnP-a/board/5.0mustangProteusPnP-a-schematic.pdf)
+
 [88 diagram](https://github.com/rusefi/rusefi/wiki/Ford-Fox-Body-(88-Ford-Mustang-302-V8))
 
 # 5.0 Mustang Proteus PnP
